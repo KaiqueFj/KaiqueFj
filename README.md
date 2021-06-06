@@ -12,6 +12,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-kaiquelferraz@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiquelferraz@hotmail.com)](mailto:kaiquelferraz@hotmail.com)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueFj)](https://github.com/KaiqueFj/github-readme-stats)
+[![Kaique Ferraz GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueFj)](https://github.com/KaiqueFj/github-readme-stats)
+![Kaique Ferraz GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueFj&count_private=true)
+
 
 
