@@ -13,7 +13,8 @@
 
 
 [![Kaique Ferraz GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueFj)](https://github.com/KaiqueFj/github-readme-stats)
-![Kaique Ferraz GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueFj&count_private=true)
+[![KaiqueFj GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueFj&show_icons=true)
+
 
 
 
