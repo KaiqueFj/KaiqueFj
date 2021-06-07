@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-kaiquelferraz@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiquelferraz@hotmail.com)](mailto:kaiquelferraz@hotmail.com)
 
 
-![KaiqueFj GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueFj&show_icons=true&theme=shades-of-purple&include_all_commits=true)
+![KaiqueFj GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueFj&show_icons=true&theme=shades-of-purple&include_all_commits)
 
 
 
