@@ -13,7 +13,6 @@
 
 
 ![KaiqueFj GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueFj&show_icons=true&theme=shades-of-purple)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaiqueFj&repo=github-readme-stats)](https://github.com/KaiqueFj/github-readme-stats)
 
 
 
