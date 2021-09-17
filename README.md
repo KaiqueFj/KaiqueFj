@@ -13,7 +13,7 @@
 
 
 ![KaiqueFj GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueFj&show_icons=true&theme=shades-of-purple&include_all_commits)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?KaiqueFj=<KaiqueFj>&theme=<THEME_NAME>" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFj)](https://github.com/KaiqueFj/github-readme-stats)
 
 
 
