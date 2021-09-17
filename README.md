@@ -16,10 +16,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFj&layout=compact&theme=shades-of-purple)](https://github.com/KaiqueFj/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaiqueFj&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaiqueFj&repo=KaiqueFj" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaiqueFj&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaiqueFj&repo=KaiqueFj"/>
 </a>
 
 
