@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaiqueFj&show_icons=true&theme=shades-of-purple&include_all_commits" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFj&layout=compact&theme=shades-of-purple)](https://github.com/KaiqueFj/github-readme-stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFj&layout=compact&theme=shades-of-purple"/>
 </a>
 
 
