@@ -1,8 +1,9 @@
 # Hello, I'm Kaique Ferraz de Jesus <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 **🌟 Learning day by day, passionate about knowledge, problem-solving and technology lover**
 
-- 📕 I'm currently studying Analysis and System Development at ETEC Taboão da Serra
-- 🔮 I'm currently Learning Python, NextJs, NodeJS and typescript
+- 👨‍💻 Software Developer
+- 📕 I'm currently studying Analysis and System Development at University Faculdade de Informática e Administração Paulista - Fiap
+- 🔮 I am Passionate about Python, Javascript, Html, Css, MySql, React, React-Native
 - 🔥 Always looking for new challenges with the mind opened for new ideas
 
 **Reach me out 👇**
