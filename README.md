@@ -10,7 +10,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@KaiqueFj26-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/KaiqueFj26)](https://twitter.com/KaiqueFj26) [
 ![Linkedin Badge](https://img.shields.io/badge/-Kaique%20Ferraz-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Kaique-Ferraz/)](https://www.linkedin.com/in/kaique-ferraz-a9a7b7206/) 
-[![Gmail Badge](https://img.shields.io/badge/-kaiquelferraz@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiquelferraz@hotmail.com)](mailto:kaiqueferraz.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kaiqueferraz.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiquelferraz@hotmail.com)](mailto:kaiqueferraz.dev@gmail.com)
 
 
 
