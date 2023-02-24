@@ -2,7 +2,7 @@
 **🌟 Learning day by day, passionate about knowledge, problem-solving and technology lover**
 
 - 👨‍💻 Software Developer
-- 📕 I'm currently studying Analysis and System Development at University Faculdade de Informática e Administração Paulista - Fiap
+- 📕 I'm currently studying System Analysis at Faculdade de Informática e Administração Paulista - Fiap
 - 🔮 I am Passionate about Python, Javascript, Html, Css, MySql, React, React-Native
 - 🔥 Always looking for new challenges with the mind opened for new ideas
 
