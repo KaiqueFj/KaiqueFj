@@ -1,5 +1,5 @@
 # Hello, I'm Kaique Ferraz de Jesus <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-**🌟 Learning day by day, passionate about knowledge, problem-solving and technology lover**
+**🌟 Never say never, because limits, like fears, are often just an illusion. Passionate about knowledge, problem-solving and technology lover**
 
 - 👨‍💻 Software Developer
 - 📕 I'm currently studying System Analysis at Faculdade de Informática e Administração Paulista - Fiap
