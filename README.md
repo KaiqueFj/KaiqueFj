@@ -12,10 +12,9 @@
 ![Linkedin Badge](https://img.shields.io/badge/-Kaique%20Ferraz-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Kaique-Ferraz/)](https://www.linkedin.com/in/kaique-ferraz-a9a7b7206/) 
 [![Gmail Badge](https://img.shields.io/badge/-kaiqueferraz.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiquelferraz@hotmail.com)](mailto:kaiqueferraz.dev@gmail.com)
 
+[![card](https://github-readme-stats.vercel.app/api?username=KaiqueFj&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFj&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-| <a href="https://github.com/KaiqueFj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaiqueFj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kaique github stats" /></a> | <a href="https://github.com/KaiqueFj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFj&layout=compact&theme=shades-of-purple&hide_border=true" /></a> |
 
 
 
