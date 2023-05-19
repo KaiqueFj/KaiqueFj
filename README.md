@@ -15,7 +15,7 @@
 
 
 
-| <a href="https://github.com/KaiqueFj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaiqueFj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kaique github stats" /></a> | <a href="https://github.com/KaiqueFj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFj&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/KaiqueFj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaiqueFj&show_icons=true&include_all_commits=true&theme=shades-of-purple&hide_border=true" alt="Kaique github stats" /></a> | <a href="https://github.com/KaiqueFj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFj&layout=compact&theme=shades-of-purple&hide_border=true" /></a> |
 
 
 
