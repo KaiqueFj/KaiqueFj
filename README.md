@@ -7,7 +7,7 @@
 - 🔥 Constantly seeking new challenges with an open mind for fresh ideas.
 
 
-### 📂 Featured Projects  
+# 📂 Featured Projects  
 - **Real-Time Chat Application**: Built with React, Node.js, and WebSocket for seamless communication.  
   [Repository](https://github.com/KaiqueFj/Super-chat) | [Live Demo](https://super-chat-uhey.onrender.com/)
 
@@ -18,7 +18,7 @@
   [Repository](https://github.com/KaiqueFj/automation-scripts)
 
   
-### 💻 Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
   <h3>🖥️ Frontend</h3>
