@@ -9,8 +9,13 @@
 
 ### 📂 Featured Projects  
 - **Real-Time Chat Application**: Built with React, Node.js, and WebSocket for seamless communication.  
+  [Repository](https://github.com/KaiqueFj/Super-chat) | [Live Demo](https://super-chat-uhey.onrender.com/)
+
 - **Cryptocurrency Tracker**: A website to track crypto market trends using Chart.js and Tailwind CSS.  
-- **Automation Scripts**: Automated web scraping tasks using Puppeteer and integrated data with Datadog API.
+  [Repository](https://github.com/KaiqueFj/Crypto-currency) | [Live Demo](https://crypto-currency-pgqa.onrender.com/overview)
+
+- **Automation Scripts**: Automated web scraping tasks using Puppeteer and integrated data with Datadog API.  
+  [Repository](https://github.com/KaiqueFj/automation-scripts)
 
 
 <div align="center">
@@ -26,8 +31,8 @@
 
 <div align="center">
   <a href="https://github.com/KaiqueFj">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaiqueFj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFj&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KaiqueFj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFj&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
   
