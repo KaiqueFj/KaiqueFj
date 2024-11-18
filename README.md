@@ -17,6 +17,8 @@
 - **Automation Scripts**: Automated web scraping tasks using Puppeteer and integrated data with Datadog API.  
   [Repository](https://github.com/KaiqueFj/automation-scripts)
 
+  
+### 💻 Tech Stack
 
 <div align="center">
   <h3>🖥️ Frontend</h3>
