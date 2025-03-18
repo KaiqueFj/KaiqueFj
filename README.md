@@ -33,8 +33,8 @@
 
 <div align="center">
   <a href="https://github.com/KaiqueFj">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KaiqueFj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFj&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaiqueFj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFj&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
   
@@ -43,9 +43,10 @@
     
  ##
     
-  *Reach me out 👇*
+  *📬 Get in Touch*
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kaique%20Ferraz-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Kaique-Ferraz/)](https://www.linkedin.com/in/kaique-ferraz-a9a7b7206/) 
-[![Gmail Badge](https://img.shields.io/badge/-kaiqueferraz.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiquelferraz.dev@gmail.com)](mailto:kaiqueferraz.dev@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Visit%20my%20portfolio-6633cc?style=flat-square&logo=web&logoColor=white&link=https://kaiquefj-portfolio.onrender.com)](https://kaiquefj-portfolio.onrender.com)
+[![Kaique Ferraz](https://custom-icon-badges.demolab.com/badge/Kaique%20Ferraz-0A66C2?logo=linkedin-white&logoColor=186bbe&link=https://www.linkedin.com/in/Kaique-Ferraz/)](https://www.linkedin.com/in/kaique-ferraz-a9a7b7206/)
+[![Gmail Badge](https://img.shields.io/badge/-kaiqueferraz.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiquelferraz.dev@gmail.com)](mailto:kaiqueferraz.dev@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Visit%20my%20portfolio-6633cc?style=flat-square&logo=stackedit&logoColor=white&link=https://kaiquefj-portfolio.onrender.com)](https://kaiquefj-portfolio.onrender.com)
+
 
