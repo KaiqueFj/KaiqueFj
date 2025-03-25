@@ -14,8 +14,6 @@
 - **Cryptocurrency Tracker**: A website to track crypto market trends using Chart.js and Tailwind CSS.  
   [Repository](https://github.com/KaiqueFj/Crypto-currency) | [Live Demo](https://crypto-currency-pgqa.onrender.com/overview)
 
-- **Automation Scripts**: Automated web scraping tasks using Puppeteer and integrated data with Datadog API.  
-  [Repository](https://github.com/KaiqueFj/automation-scripts)
 
   
 # 💻 Tech Stack
