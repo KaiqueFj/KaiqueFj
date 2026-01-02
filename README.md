@@ -8,11 +8,17 @@
 
 
 # 📂 Featured Projects  
+
+- **Sneakers-store**: A website to track crypto market trends using Chart.js and Tailwind CSS. An Eccomerce website that simulates the same experience and functions as nike website 
+  [Repository](https://github.com/KaiqueFj/Sneaker-store) | [Live Demo](https://sharkf-store.netlify.app)
+  
 - **Real-Time Chat Application**: Built with React, Node.js, and WebSocket for seamless communication.  
   [Repository](https://github.com/KaiqueFj/Super-chat) | [Live Demo](https://super-chat-uhey.onrender.com/)
 
 - **Cryptocurrency Tracker**: A website to track crypto market trends using Chart.js and Tailwind CSS.  
   [Repository](https://github.com/KaiqueFj/Crypto-currency) | [Live Demo](https://crypto-currency-pgqa.onrender.com/overview)
+
+
 
 
   
