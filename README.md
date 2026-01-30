@@ -55,5 +55,7 @@ Interactive crypto dashboard for tracking market data, trends, and price movemen
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5c1bf5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=5c1bf5)](https://www.linkedin.com/in/kaique-ferraz-a9a7b7206/)
 [![Gmail](https://img.shields.io/badge/-Gmail-5c1bf5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5c1bf5)](mailto:kaiqueferraz.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-5c1bf5?style=for-the-badge&logo=Portfolio&logoColor=white&labelColor=5c1bf5)](https://kaique-fj.netlify.app)
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=110&section=footer"/>
