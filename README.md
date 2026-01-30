@@ -2,19 +2,14 @@
 
 <h1 align="center">Hi, I'm Kaique Ferraz 👋</h1>
 
+
 <p align="center">
-  Fullstack Developer focused on building scalable web applications and clean user experiences.
+Fullstack Developer building scalable, high-performance applications 
 </p>
 
-#### Main Languages & Frameworks
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+<p align="center">
+React · Next.js · Node.js · TypeScript · AWS · MongoDB · Mysql
+</p>
 
 
 ---
