@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- Fullstack Developer building scalable web applications and interactive UIs.  
+- Fullstack Developer building scalable applications and interactive UIs.  
 - Skilled in **Node.js, React, Next.js, Python, MongoDB, MySQL, and AWS**.  
 - Always exploring new technologies and tackling challenging projects.  
 
