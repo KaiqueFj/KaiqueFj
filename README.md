@@ -1,66 +1,59 @@
-# Hello, I'm Kaique Ferraz de Jesus <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=110&section=header"/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h1 align="center">Hi, I'm Kaique Ferraz 👋</h1>
 
-🌟 Passionate about knowledge and problem-solving. Lover of technology and constantly exploring new ideas.
+<p align="center">
+  Fullstack Developer focused on building scalable web applications and clean user experiences.
+</p>
 
-- 👨‍💻 Fullstack Developer building scalable web applications and interactive UIs.  
-- 🔧 Skilled in **Node.js, React, Next.js, Python, MongoDB, MySQL, and AWS**.  
-- 🚀 Always exploring new technologies and tackling challenging projects.
+#### Main Languages & Frameworks
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
----
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-## 📂 Featured Projects  
-
-- **Sneakers-store**  
-  E-commerce clone inspired by Nike, simulating product browsing, cart, and checkout experience. Built with **React, Chart.js, and Tailwind CSS**.  
-  [Repository](https://github.com/KaiqueFj/Sneaker-store) | [Live Demo](https://sharkf-store.netlify.app)
-
-- **Real-Time Chat Application**  
-  Web chat application with **React, Node.js, and WebSocket** for seamless messaging. Supports individual and group chats in real-time.  
-  [Repository](https://github.com/KaiqueFj/Super-chat) | [Live Demo](https://super-chat-uhey.onrender.com/)
-
-- **Cryptocurrency Tracker**  
-  Tracks crypto market trends with interactive charts and a responsive UI. Built using **Chart.js and Tailwind CSS**.  
-  [Repository](https://github.com/KaiqueFj/Crypto-currency) | [Live Demo](https://crypto-currency-pgqa.onrender.com/overview)
 
 ---
 
-## 💻 Tech Stack
+##  Featured Projects
 
-<div align="center">
-
-### 🖥️ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,pug" height="40" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,python,mongodb,mysql" height="40" />
-
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=github,git,figma,postman,obsidian,aws" height="40" />
-
-</div>
+#### **Sneakers Store**
+Nike-inspired e-commerce application featuring product browsing, cart management, and checkout flow.  
+**Tech:** NextJS · NextAuth · Tailwind CSS · Supabase
+🔗 [Repository](https://github.com/KaiqueFj/Sneaker-store) · 🌐 [Live Demo](https://sharkf-store.netlify.app)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=&preferLogin=false">
-  <img alt="KaiqueFj's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/KaiqueFj?cardType=level&theme=github-dark&fontFamily=&preferLogin=false" />
-</a>
-
-</div>
+#### **Real-Time Chat Application**
+Full real-time messaging platform supporting individual and group conversations with WebSocket communication.  
+**Tech:** React · Node.js · WebSocket  
+🔗 [Repository](https://github.com/KaiqueFj/Super-chat) · 🌐 [Live Demo](https://super-chat-uhey.onrender.com)
 
 ---
 
-## 📬 Get in Touch
+#### **Cryptocurrency Tracker**
+Interactive crypto dashboard for tracking market data, trends, and price movements with dynamic charts.  
+**Tech:** Node.js · Websocket · ChartJS · PugTemplate · Tailwind CSS  
+🔗 [Repository](https://github.com/KaiqueFj/Crypto-currency) · 🌐 [Live Demo](https://crypto-currency-pgqa.onrender.com/overview)
 
-<div align="center">
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Kaique%20Ferraz-0A66C2?logo=linkedin-white&logoColor=186bbe&link=https://www.linkedin.com/in/Kaique-Ferraz/)](https://www.linkedin.com/in/kaique-ferraz-a9a7b7206/)  
-[![Gmail](https://img.shields.io/badge/-kaiqueferraz.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiqueferraz.dev@gmail.com)](mailto:kaiqueferraz.dev@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Visit%20my%20portfolio-6633cc?style=flat-square&logo=stackedit&logoColor=white&link=https://kaiquefj-portfolio.onrender.com)](https://kaiquefj-portfolio.onrender.com)
+---
 
-</div>
+## Additional Experience & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,python,java,pug,supabase,postgres,aws,docker,git,github,linux,jenkins,postman" />
+</p>
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-5c1bf5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=5c1bf5)](https://www.linkedin.com/in/kaique-ferraz-a9a7b7206/)
+[![Gmail](https://img.shields.io/badge/-Gmail-5c1bf5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5c1bf5)](mailto:kaiqueferraz.dev@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=110&section=footer"/>
